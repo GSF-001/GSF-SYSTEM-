@@ -43,6 +43,7 @@ GSF removes these failure modes by design.
 ---
 
 ## Core Properties
+![image alt](https://github.com/GSF-001/GSF-SYSTEM-/blob/7366b27fc6737c6444420afd8fd339da868e1326/images%20(5).jpeg)
 
 - No custody of user funds  
 - Algorithmic governance  
@@ -64,7 +65,6 @@ Automation Layer (Cron / Workers / Ledger)
 ↓  
 External Brokers (No custody)
 
-![image alt]{},💫🧑🏻‍🎤
 ---
 
 ## Modules
