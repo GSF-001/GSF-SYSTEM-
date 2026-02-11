@@ -121,8 +121,11 @@ If they do not,
 the system fails — visibly.
 
 ---
-![image](https://github.com/GSF-001/edge-safety-system/blob/bfee8531f0bccbb1ba9a839ba003c44a22f71ef1/file_00000000fa0c72069accd6a331011001-removebg-preview.png)
-## Contact
+## contact📫
+
+<p align="right">
+  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
+</p>
 
       by ©Founder: MIKAtoshi
 
@@ -132,3 +135,15 @@ the system fails — visibly.
 
 There is no roadmap.  
 Only iterations.🪙
+
+
+
+
+
+
+
+
+
+
+
+
