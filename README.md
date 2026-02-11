@@ -126,9 +126,11 @@ the system fails — visibly.
 
 ## Contact
 
-Founder: MIKA 🧑🏻‍💻
-Email:gsfvapps@gmail.com 
-GitHub:https://github.com/GSF-001  
+©Founder: MIKA 
+
+•  Email:gsfvapps@gmail.com 
+
+•  GitHub:https://github.com/GSF-001  
 
 There is no roadmap.  
 Only iterations.🪙
