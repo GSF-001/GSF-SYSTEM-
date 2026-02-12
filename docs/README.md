@@ -1,6 +1,7 @@
 ## ⚔️ GSF –global system fremwork (Open Blueprint)  
 
    GSF is an open system blueprint for     building a modular coordination         ecosystem that combines:
+## Quick Demo
 
 ![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
