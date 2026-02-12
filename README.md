@@ -25,7 +25,6 @@ A set of modules that coordinate:
 - automation  
 
 across distributed communities.
-
 Money moves only through external brokers.  
 GSF only moves **signals, rules, and coordination logic**.
 
@@ -38,10 +37,10 @@ Most platforms fail because:
 
 - trust is centralized  
 - incentives are manual  
-- governance is opaque  
-- operators become single points of failure  
+- governance is o operators become single points of failure  
 
 GSF removes these failure modes by design.
+https://github.com/GSF-001/GSF-SYSTEM-/tree/6ae59ed8e3cb5d9d5b3483680563ceac42381e6a/modules
 
 ---
 
