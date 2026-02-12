@@ -14,7 +14,7 @@ It is an **open blueprint** meant to be challenged, reviewed, and improved colla
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 - Stress-test GSF ideas technically and conceptually  
 - Turn abstract vision into implementable system design  
 - Invite collaboration on:
@@ -25,7 +25,7 @@ It is an **open blueprint** meant to be challenged, reviewed, and improved colla
 
 ---
 
-## 🤝 Who Should Contribute?
+##  Who Should Contribute?
 - Backend / infrastructure engineers  
 - Security engineers  
 - Blockchain / distributed systems engineers  
@@ -37,14 +37,14 @@ If you can think in systems, you’re welcome.
 
 ---
 
-## 🚀 How to Contribute
+## How to Contribute
 1. Read `docs/protocol/GSF_BLUEPRINT.md`  
 2. Pick a mini-task from `docs/TASKS.md`  
 3. Fork → work → open a Pull Request  
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 This repository contains **concepts and blueprints only**.  
 It is not a broker, not an investment product, and not a fund manager.
 
