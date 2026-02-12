@@ -23,7 +23,7 @@ A set of modules that coordinate:
 - incentives  
 - governance  
 - automation  
-
+  
 across distributed communities.
 Money moves only through external brokers.  
 GSF only moves **signals, rules, and coordination logic**.
