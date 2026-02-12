@@ -1,6 +1,5 @@
- # 💫GSF — global Systems Framework
- 
-> A coordination architecture for 
+ # 💫GSF — global System fremwork 
+  
 ![mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 A self-sustaining digital system for coordination, reputation, and automated incentives.  
 No custody. No financial advice. No central control over user funds.
@@ -38,7 +37,6 @@ https://github.com/GSF-001/GSF-SYSTEM-/tree/446e42bcef4900bd467820dc68c0779422ff
   here is the explanation👇🏻   
 
 Most platforms fail because:
-![image alt](https://github.com/GSF-001/GSF-SYSTEM-/blob/6dcdf03dc99b11f718c7b3593726e27c9d751415/file_000000007dd071fab2e1ea6ce2fea0a2.png)
 
 - trust is centralized  
 - incentives are manual  
