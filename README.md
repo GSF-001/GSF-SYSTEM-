@@ -9,7 +9,7 @@ GSF is an experiment in building digital infrastructure that can operate with mi
  
 ---
 
-## What This Is GSF👨🏻‍💻
+### What This Is GSF👨🏻‍💻
 
 GSF is not a product.  
 It is a **system architecture**.
@@ -29,7 +29,7 @@ GSF only moves **signals, rules, and coordination logic**.
 
 ---
 
-## GSF
+### GSF
   here is the explanation👇🏻   
 
 Most platforms fail because:
@@ -41,7 +41,7 @@ GSF removes these failure modes by design.
 
 ---
 
-## Architecture Overview
+### Architecture Overview
 
 User Interface  
 ↓  
@@ -55,7 +55,7 @@ External Brokers (No custody)
 
 ---
 
-## Core Properties
+### Core Properties
 ![image alt](https://github.com/GSF-001/GSF-SYSTEM-/blob/7366b27fc6737c6444420afd8fd339da868e1326/images%20(5).jpeg)
 
 - No custody of user funds  
@@ -64,9 +64,9 @@ External Brokers (No custody)
 - Reputation without financial control  
 - Systems that continue running when operators go offline  
 
-## Modules
+### Modules
 
-## Documentation
+ Documentation
 
 - [Architecture overview](./ARCHITECTURE.md)
 - [System modules](./modules)
@@ -77,7 +77,7 @@ All architectural components are replaceable.
 
 ---
 
-## Status
+### Status
 
 Experimental.
 
@@ -93,7 +93,7 @@ Use at your own risk.
 
 ---
 
-## Usage
+### Usage
 
 This system is intended for:
 
@@ -104,7 +104,7 @@ This system is intended for:
 
 ---
 
-## Notes 📑
+### Notes 📑
 
 GSF does not promise profit.  
 GSF only defines mechanisms.
@@ -116,7 +116,7 @@ If they do not,
 the system fails — visibly.
 
 ---
-## contact📫
+### contact📫
 •  Email:gsfvapps@gmail.com 
 
 • This repository is intentionally minimal.
