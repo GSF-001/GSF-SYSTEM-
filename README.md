@@ -121,3 +121,5 @@ the system fails — visibly.
 
 — Mikatoshi  
 Operator status: unknown.
+This repository is intentionally minimal.
+Silence is a design choice.
