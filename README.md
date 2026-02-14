@@ -55,7 +55,7 @@ Money moves only through external brokers; GSF moves **signals and rules**.
 
 ### Documentation & Modules
 
-- [architecture](./architecture)  
+- [Architecture overview](./architecture)  
 - [System Modules](./modules)  
 - [Non-Goals](./NON_GOALS.md)
 
