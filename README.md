@@ -1,6 +1,7 @@
  ### GSF — global System fremwork 
   
 ![mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
+
 A self-sustaining digital system for coordination, reputation, and automated incentives.  
 No custody. No financial advice. No central control over user funds.
 
@@ -26,9 +27,6 @@ across distributed communities.
 Money moves only through external brokers.  
 GSF only moves **signals, rules, and coordination logic**.
 
-📄 Boundaries & exclusions:  
-→ [NON_GOALS.md](./NON_GOALS.md)
-
 ---
 
 ## GSF
@@ -38,10 +36,8 @@ Most platforms fail because:
 
 - trust is centralized  
 - incentives are manual  
-- governance is o operators become single points of failure  
-
+- - governance depends on single operators
 GSF removes these failure modes by design.
-https://github.com/GSF-001/GSF-SYSTEM-/tree/6ae59ed8e3cb5d9d5b3483680563ceac42381e6a/modules
 
 ---
 
@@ -70,13 +66,14 @@ External Brokers (No custody)
 
 ## Modules
 
-See:
+## Documentation
 
-- `ARCHITECTURE.md`  
-- `MODULES.md`  
+- [Architecture overview](./ARCHITECTURE.md)
+- [System modules](./modules)
+- [What this system does NOT do](./NON_GOALS.md)
 
 All modules are optional.  
-All modules are replaceable.
+All architectural components are replaceable.
 
 ---
 
@@ -122,7 +119,9 @@ the system fails — visibly.
 ## contact📫
 •  Email:gsfvapps@gmail.com 
 
+• This repository is intentionally minimal.
+Silence is a design choice.
+
+
 — Mikatoshi  
 Operator status: unknown.
-This repository is intentionally minimal.
-Silence is a design choice.
