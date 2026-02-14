@@ -26,6 +26,9 @@ across distributed communities.
 Money moves only through external brokers.  
 GSF only moves **signals, rules, and coordination logic**.
 
+📄 What this system explicitly does NOT do:
+NON_GOALS.md
+
 ---
 
 ## GSF
