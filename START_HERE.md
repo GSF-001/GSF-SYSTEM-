@@ -1,60 +1,44 @@
-# START_HERE — Welcome to GSF
+# START_HERE — Welcome to GSF-SYSTEM-
 
 Welcome to **GSF-SYSTEM-**, the modular architecture behind the GSF Digital Ecosystem.  
-This guide is for new contributors, observers, and researchers who want to understand the system quickly.
+This guide is for new contributors, observers, and researchers.
 
 ---
 
-## 1️⃣ Understand the Vision
-Start with the **big picture**:
-- [VISION.md](VISION.md) — long-term philosophy of GSF
-- [ECOSYSTEM.md](ECOSYSTEM.md) — how modules connect
+## 1️⃣ Explore Core Modules
+Start dengan kode yang udah ada di repo:
 
-> Tip: GSF is not a product, it’s a system architecture coordinating signals, rules, and incentives.
+- `modules/` — core modules: `ces.js`, `fls.js`, `mayor.js`, `police.js`  
+- `src/` — working integration code: `council.js`, `index.js`  
+- `docs/` — technical docs like `CONTRIBUTING.md`, `TASKS.md`
 
----
-
-## 2️⃣ Explore Core Architecture
-Learn the system layers:
-- [SYSTEM.md](SYSTEM.md) — technical core & coordination logic
-- [GOVERNANCE.md](GOVERNANCE.md) — automated governance rules
-- [ROADMAP.md](ROADMAP.md) — development milestones
-
-> Each layer is modular and can evolve independently.
+> Semua module berjalan secara modular. Fokusnya **signal & rules**, bukan custody.
 
 ---
 
-## 3️⃣ Check Modules & Protocols
-Dive into code structure:
-- `modules/` — core modules like `ces.js`, `police.js`, `mayor.js`
-- `protocol/` — system protocol definitions
-- `src/` — working integration code like `council.js`, `index.js`
+## 2️⃣ Key Documentation
+Yang bisa dibaca langsung sekarang:
 
-> Modules are designed to run autonomously. No custody, only signals.
-
----
-
-## 4️⃣ Documentation & Research
-- [ARCHITECTURE.md](ARCHITECTURE.md) — deeper technical research
-- [SECURITY.md](SECURITY.md) — safety & threat considerations
-- [THREAT_MODEL.md](THREAT_MODEL.md) — threat scenarios & mitigations
-- [NON_GOALS.md](NON_GOALS.md) — things GSF **does not** handle
+- [ARCHITECTURE.md](ARCHITECTURE.md) — gambaran teknis sistem  
+- [SECURITY.md](SECURITY.md) — pertimbangan keamanan  
+- [THREAT_MODEL.md](THREAT_MODEL.md) — skenario ancaman & mitigasi  
+- [NON_GOALS.md](NON_GOALS.md) — hal-hal yang **tidak ditangani** oleh GSF
 
 ---
 
-## 5️⃣ Contributing & Observing
-- [CONTRIBUTING.md](CONTRIBUTING.md) — contribution guidelines (if open)
-- [TASKS.md](TASKS.md) — research tasks / experiments
+## 3️⃣ Contribution & Observation
+- [CONTRIBUTING.md](docs/CONTRIBUTING.md) — panduan kontribusi  
+- [TASKS.md](docs/TASKS.md) — task & research untuk eksperimen
 
-> Public repos are abstractions. Control remains with the operator.  
-> Use at your own risk.
+> Public repos hanya untuk observasi & eksperimen. Control tetap di operator.  
+> Gunakan dengan risiko sendiri.
 
 ---
 
-## 6️⃣ Start Small
-- Browse `modules/` and try to **trace signal flow**.
-- Read `protocol/` to understand **automation rules**.
-- Check issues for current **research & experiments**.
+## 4️⃣ Quick Start
+- Buka `modules/` dan coba trace alur signal.  
+- Baca `protocol/` (kalau ada) untuk rules automation.  
+- Cek issues untuk riset & eksperimen yang sedang aktif.
 
 ---
 
