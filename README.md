@@ -1,15 +1,11 @@
 ### GSF — Global System Framework
 
-![mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
-
 A self-sustaining system for **coordination, reputation, and automated incentives**.  
 No custody. No financial advice. No central control.
 
 > Designed to remain operational even if its original authors disappear.
 
 ---
-
-### What is GSF?
 
 GSF is **not a product**. It is a **system architecture** coordinating:
 
@@ -20,10 +16,6 @@ GSF is **not a product**. It is a **system architecture** coordinating:
 - automation  
 
 Money moves only through external brokers; GSF moves **signals and rules**.
-
-<p align="center">
-  <img src="https://github.com/GSF-001/GSF-SYSTEM-/blob/75b5eba32582710e3afd31b401618e7c31239149/-a2hl1h.jpg" width="300px">
-</p>
 
 ---
 
@@ -40,10 +32,6 @@ Money moves only through external brokers; GSF moves **signals and rules**.
 ---
 
 ### Core Properties
-
-<p align="center">
-  <img src="https://github.com/GSF-001/GSF-SYSTEM-/blob/7366b27fc6737c6444420afd8fd339da868e1326/images%20(5).jpeg" width="300px">
-</p>
 
 - No custody of user funds  
 - Algorithmic governance  
