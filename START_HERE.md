@@ -1,4 +1,4 @@
-# START_HERE — Welcome to GSF-SYSTEM-
+## START_HERE Welcome to GSF-SYSTEM
 
 Welcome to **GSF-SYSTEM-**, the modular architecture behind the GSF Digital Ecosystem.  
 This guide is for new contributors, observers, and researchers.
