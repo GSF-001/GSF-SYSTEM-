@@ -1,61 +1,40 @@
-### GSF — Global System Framework
+### GSF—Global System Framework
+A self-sustaining, modular system for **coordination, reputation, and automated incentives**.  
+No custody. No central control. Designed to remain operational even if original authors disappear.
 
-A self-sustaining system for **coordination, reputation, and automated incentives**.  
-No custody. No financial advice. No central control.
+### Core Concepts
+GSF coordinates:
+- Identity & reputation
+- Governance & automated incentives
+- Event-driven automation
+- Signals & rules (no user funds are controlled)
 
-> Designed to remain operational even if its original authors disappear.
-
----
-
-GSF is **not a product**. It is a **system architecture** coordinating:
-
-- identity  
-- reputation  
-- incentives  
-- governance  
-- automation  
-
-Money moves only through external brokers; GSF moves **signals and rules**.
-
----
-
-### Architecture Layers
-
-- **User Interface**  
-- **Coordination Layer (Governance API)**  
-- **Reputation & Feedback Engine**  
-- **Automation Layer (Cron / Workers / Ledger)**  
-- **External Brokers (No custody)**
-
-> Each layer is modular and replaceable. The system continues running even if operators disappear.
-
----
-
-### Core Properties
-
-- No custody of user funds  
-- Algorithmic governance  
-- Automated reward & penalty loops  
-- Reputation without financial control  
+**Core Properties**
+- Algorithmic governance
+- Automated reward & penalty loops
+- Reputation without financial control
+- Modular & replaceable layers
 - Self-sustaining operations
 
----
+### Architecture Layers
+1. **User Interface** — front-facing modules  
+2. **Coordination Layer (Governance API)** — decision logic  
+3. **Reputation & Feedback Engine** — tracks user behavior  
+4. **Automation Layer (Cron / Workers / Ledger)** — runs scheduled actions  
+5. **External Brokers (No custody)** — moves money outside the system
 
 ### Documentation & Modules
+- [System Modules](modules) — see folder for implementation  
+- [Non-Goals](NON_GOALS.md) — what GSF is **not** responsible for
 
-- [System Modules](./modules)  
-- [Non-Goals](./NON_GOALS.md)
-
- Status & Usage
-- Experimental, not production-ready  
-- Intended for builders, designers, and autonomous communities  
+### Status & Usage
+- Experimental & research-phase
+- For builders, designers, and autonomous communities
 - Use at your own risk
 
----
+### Getting Started
+See [START_HERE.md](START_HERE.md) for a guided intro to modules & architecture.
 
 ### Contact
-
-• Email: gsfvapps@gmail.com  
-• Minimalist repository. Silence is a design choice.
-
-— Mikatoshi, Operator status: unknown
+- Email: gsfvapps@gmail.com  
+- Operator: Mikatoshi — offline, observing
