@@ -1,127 +1,45 @@
-# GSF
+GSF-001 – Blueprint Edition
 
-A self-sustaining digital system for coordination, reputation, and automated incentives.  
-No custody. No financial advice. No central control over user funds.
+This repository is a forked blueprint of GSF-001. It contains the architecture, folder structure, and module layout, but does not include a functioning database, live backend, or operational cron jobs.
 
-GSF is an experiment in building digital infrastructure that can operate with minimal human intervention.
+Overview
 
----
+GSF-001 is a global system framework featuring:
 
-## What This Is🤷🏻
+Permissioned ledger and multisig vaults
 
-GSF is not a product.  
-It is a **system architecture**.
+Real-time wallet and event platform
 
-A set of modules that coordinate:
+Modular architecture: AI, governance, finance, disaster response, city monitoring
 
-- identity👾
-- reputation  
-- incentives  
-- governance  
-- automation  
 
-across distributed communities.
+This fork provides a structural reference.
 
-Money moves only through external brokers.  
-GSF only moves **signals, rules, and coordination logic**.
+Limitations
 
----
+No live database or Redis integration
 
-## Why GSF🗯️🧑🏻‍💻
-  here is the explanation👇🏻   
+No operational backend services
 
-Most platforms fail because:
+No real transaction or reward system
 
-- trust is centralized  
-- incentives are manual  
-- governance is opaque  
-- operators become single points of failure  
 
-GSF removes these failure modes by design.
+> The forked repository is intended for study, experimentation, and architecture review only. Running it as-is will not reproduce the GSF ecosystem.
 
----
 
-## Core Properties
 
-- No custody of user funds  
-- Algorithmic governance  
-- Automated reward & penalty loops  
-- Reputation without financial control  
-- Systems that continue running when operators go offline  
+Usage
 
----
+1. Clone the repository
 
-## Architecture Overview
 
-User Interface  
-↓  
-Coordination Layer (Governance API)  
-↓  
-Reputation & Feedback Engine  
-↓  
-Automation Layer (Cron / Workers / Ledger)  
-↓  
-External Brokers (No custody)
+2. Review folder structure and code modules
 
----
 
-## Modules
+3. Use as a reference for your own implementation
 
-See:
 
-- `ARCHITECTURE.md`  
-- `MODULES.md`  
 
-All modules are optional.  
-All modules are replaceable.
+Note
 
----
-
-## Status
-
-Experimental.
-
-This repository documents a working architecture for:
-
-- autonomous operations  
-- decentralized trust signals  
-- automated community coordination  
-
-Not production-ready.  
-Not financial advice.  
-Use at your own risk.
-
----
-
-## Usage
-
-This system is intended for:
-
-- builders of coordination protocols  
-- designers of incentive mechanisms  
-- developers exploring autonomous platforms  
-- communities that want systems to outlive their operators  
-
----
-
-## Notes 📑
-
-GSF does not promise profit.  
-GSF only defines mechanisms.
-
-If the mechanisms work,  
-the system survives.
-
-If they do not,  
-the system fails — visibly.
-
----
-
-## Contact
-
-Founder: MIKA 🧑🏻‍💻
-Email:gsfvapps@gmail.com 
-GitHub:https://github.com/GSF-001  
-
-There is no roadmap.  
-Only iterations.🪙
+The GSF-001 ecosystem’s full functionality, live data, and operational services remain exclusive to the original environment.
